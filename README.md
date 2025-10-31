@@ -183,7 +183,7 @@ b) Frontend
 | `code`         | string | ✅        | Promo code              |
 | `bookingValue` | number | ✅        | Original booking amount |
 
-Takes two numbers and returns the sum.
+**Promo codes available to validate : code100 & code200**
 
 
 ## 👨‍💻 Author
